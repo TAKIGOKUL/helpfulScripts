@@ -18,13 +18,13 @@ Show Image
 
 🚀 Quick Start
 bash# Clone the repository
-git clone https://github.com/yourusername/simple-linux-scripts.git
+git clone https://github.com/TAKIGOKUL/helpfulScripts.git
 
 # Navigate to the directory
-cd simple-linux-scripts
+cd helpfulScripts
 
 # Make scripts executable
-chmod +x scripts/*.sh
+chmod +x ---------< script file name >----------.sh
 
 # Run a script
-./scripts/system_info.sh
+./---< script file name >---.sh
