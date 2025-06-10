@@ -1,9 +1,6 @@
 🐧 Simple Linux Scripts Collection
 A curated collection of useful Linux shell scripts to automate common tasks and enhance your productivity. These scripts are designed to be simple, reliable, and easy to understand.
-Show Image
-Show Image
-Show Image
-Show Image
+
 📑 Table of Contents
 
 🚀 Quick Start
